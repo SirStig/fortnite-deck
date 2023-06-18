@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/SirStig/fortnite-deck/compare/v1.1.0...v1.2.0) (2023-06-18)
+
+
+### Features
+
+* Vortex-tools.desktop/sh ([a1af647](https://github.com/SirStig/fortnite-deck/commit/a1af647d62e6f61b42783a0744d903be325e4feb))
+
 ## [1.1.0](https://github.com/SirStig/fortnite-deck/compare/v1.0.0...v1.1.0) (2023-06-18)
 
 
