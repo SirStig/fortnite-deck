@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Categories=Game;Utility
+Name=Epic Games Launcher
+MimeType=x-scheme-handler/nxm;x-scheme-handler/nxm-protocol
+Terminal=false
+X-KeepTerminal=false
+Path=%%EPIC_PATH%%
+Exec=%%EPIC_EXEC%%
+Icon=%%EPIC_ICON%%

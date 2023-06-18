@@ -1,0 +1,27 @@
+{
+  "name": "fortnite-linux",
+  "type": "module",
+  "version": "0.0.1",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "build": "./build.sh",
+    "lint": "eslint . --ext .js"
+  },
+  "author": "sirstig",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^10.0.1",
+    "esbuild": "^0.17.19",
+    "postject": "^1.0.0-alpha.6",
+    "tar": "^6.1.15"
+  },
+  "devDependencies": {
+    "eslint": "^8.41.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-config-prettier": "^8.8.0",
+    "eslint-plugin-import": "^2.27.5",
+    "eslint-plugin-simple-import-sort": "^10.0.0",
+    "prettier": "^2.8.8"
+  }
+}

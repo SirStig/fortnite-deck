@@ -1,0 +1,8 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Name=Fornite Linux Setup
+Exec=curl https://raw.githubusercontent.com/SirStig/fortnite-deck/main/fortnitesetup.sh?token=GHSAT0AAAAAACDRXHCIC3LPFME2JAWKSEAAZEOJSKQ | bash -s --
+Icon=curl https://raw.githubusercontent.com/SirStig/fortnite-deck/main/fortnite-linux-setup.ico?token=GHSAT0AAAAAACDRXHCJAGVFFQF776LX5OWSZEOJROA
+Terminal=true
+Type=Application
+StartupNotify=false
