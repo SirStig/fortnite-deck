@@ -1,3 +1,5 @@
+# (Deprecated, use Xbox Game Cloud) 
+
 [![release-please](https://github.com/SirStig/fortnite-deck/actions/workflows/release-please.yml/badge.svg)](https://github.com/SirStig/fortnite-deck/actions/workflows/release-please.yml)
 
 # Work in Progress, currently not fully configured. DO NOT EXPECT THIS TO WORK
